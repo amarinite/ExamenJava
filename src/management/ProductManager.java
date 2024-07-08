@@ -55,7 +55,7 @@ public class ProductManager {
                 break;
             case 2:
                 vegan = Input.readYesNo("Is it vegan? Answer 'y' or 'n': ");
-                beautySeason = Input.readString("Enter a season (Summer, Autumn, Winter or Spring": );
+                // beautySeason = Input.readString("Enter a season (Summer, Autumn, Winter or Spring: )");
                 break;
             case 3:
                 break;
